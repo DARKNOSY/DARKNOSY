@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DARKNOSY
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning python
+- 📫 How to reach me @ThunderKai1
