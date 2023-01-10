@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DARKNOSY
-- 👀 I’m interested in hacking
+- 👀 I’m interested in all types of malware and viruses
 - 🌱 I’m currently learning python
-- 📫 How to reach me @ThunderKai1
+- 📫 Reach me @ThunderKai1
