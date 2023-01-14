@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DARKNOSY
 - 👀 I’m interested in all types of malware and viruses
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and batch
 - 📫 Reach me @ThunderKai1
