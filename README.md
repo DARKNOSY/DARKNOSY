@@ -22,8 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknosy&show_icons=true&locale=en&layout=compact" alt="darknosy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DARKNOSY&show_icons=true&locale=en&layout=compact" alt="DARKNOSY" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darknosy&show_icons=true&locale=en" alt="darknosy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DARKNOSY&show_icons=true&locale=en" alt="DARKNOSY" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darknosy&" alt="darknosy" /></p>
