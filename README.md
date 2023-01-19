@@ -3,8 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DARKNOSY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darknosy" alt="darknosy" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thunderkai1" target="blank"><img src="https://img.shields.io/twitter/follow/thunderkai1?logo=twitter&style=for-the-badge" alt="thunderkai1" /></a> </p>
 
 - 🔭 I’m currently working on [Viper-AIOT](https://github.com/DARKNOSY/Viper-AIOT)
