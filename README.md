@@ -1,11 +1,13 @@
 <h1 align="center">Hey 👋, I'm DARKNOSY</h1>
 <h3 align="center">I love coding</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DARKNOSY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darknosy&label=Profile%20views&color=0e75b6&style=flat" alt="darknosy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darknosy" alt="darknosy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thunderkai1" target="blank"><img src="https://img.shields.io/twitter/follow/thunderkai1?logo=twitter&style=for-the-badge" alt="thunderkai1" /></a> </p>
 
-- 🔭 I’m currently working on [Viper-AIOT](https://github.com/DARKNOSY/Viper-AIOT)
+- 🔭 I’m currently working on [Viper-Aiot](https://github.com/DARKNOSY/Viper-AIOT)
 
 - 🌱 I’m currently learning **C# and python**
 
@@ -22,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DARKNOSY&show_icons=true&locale=en&layout=compact" alt="DARKNOSY" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknosy&show_icons=true&locale=en&layout=compact" alt="darknosy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DARKNOSY&show_icons=true&locale=en" alt="DARKNOSY" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darknosy&show_icons=true&locale=en" alt="darknosy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darknosy&" alt="darknosy" /></p>
