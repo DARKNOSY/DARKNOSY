@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/darknosy1" target="blank"><img src="https://img.shields.io/twitter/follow/darknosy1?logo=twitter&style=for-the-badge" alt="darknosy1" /></a> </p>
 
-- 🔭 I’m currently working on [my WebSite](https://github.com/DARKNOSY/darknosy.github.io)
+- 🔭 I’m currently working on [Py2ExeXobfuscator](https://github.com/DARKNOSY/Py2ExeXobfuscator)
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
