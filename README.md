@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/darknosy1" target="blank"><img src="https://img.shields.io/twitter/follow/darknosy1?logo=twitter&style=for-the-badge" alt="darknosy1" /></a> </p>
 
-- 🔭 I’m currently working on [Bat2ExeXobfuscator](https://github.com/DARKNOSY/Bat2ExeXobfuscator)
+- 🔭 I’m currently working on [Trojan Shield](https://github.com/DARKNOSY/Trojan-Shield)
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [GrabNote](https://github.com/DARKNOSY/GrabNote)
 
 - 🤝 I’m looking for help with [Fighting Discord Injection](https://github.com/DARKNOSY/Fighting-Discord-Injection)
 
