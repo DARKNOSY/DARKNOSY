@@ -83,3 +83,5 @@ Hi, I'm DARKNOSY!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+### 💸 Support
+<p><a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY"/a></p>
