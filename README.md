@@ -62,15 +62,6 @@ Hi, I'm DARKNOSY!
 </p>
 <br/>
 
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/darknosy">
-		<img src="https://activity-graph.herokuapp.com/graph?username=darknosy&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="darknosy">
-	</a>
-</p>
-<br/>
-
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
