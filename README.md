@@ -53,7 +53,9 @@ Hi, I'm DARKNOSY!
  <a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY"/a>
 </p>
 </br>
-<r> </r>
+
+<e>  </e>
+
 ## GitHub Stats
 
 <summary><b>⚡ Darknosy's Stats</b></summary>
