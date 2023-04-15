@@ -22,7 +22,7 @@ Hi, I'm DARKNOSY!
 
 <br/>
 
-## Connect with Me
+<h1 align="left"> Connect with Me </h1>
 
 <p align="center">
 	<a href="mailto:dark.help@yahoo.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -54,9 +54,7 @@ Hi, I'm DARKNOSY!
 </p>
 </br>
 
-<e>  </e>
-
-## GitHub Stats
+<h1 align="left"> GitHub Stats </h1>
 
 <summary><b>⚡ Darknosy's Stats</b></summary>
 <br/>
