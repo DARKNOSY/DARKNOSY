@@ -24,7 +24,8 @@ Hi, I'm DARKNOSY!
 
 <h1 align="left"> Connect with Me </h1>
 
-<p align="center">
+### 📱 Social Media
+<p align="left">
 	<a href="mailto:dark.help@yahoo.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://twitter.com/darknosy1"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
