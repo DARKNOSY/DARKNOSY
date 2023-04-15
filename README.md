@@ -54,8 +54,6 @@ Hi, I'm DARKNOSY!
 </p>
 </br>
 
-<h1>  </h1>
-
 ## GitHub Stats
 
 <summary><b>⚡ Darknosy's Stats</b></summary>
