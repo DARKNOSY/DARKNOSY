@@ -15,7 +15,7 @@ Hi, I'm DARKNOSY!
 </p>
 
 <pre>
-🌟 Main languages: Batch, Html, Python
+🌟 Main languages: Batch & Html
 🚩 Interested in Cybersecurity
 🤔 I’m currently open for: <b>Commissions</b>.
 </pre>
