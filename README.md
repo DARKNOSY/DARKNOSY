@@ -58,6 +58,7 @@ Hi, I'm DARKNOSY!
     <a href="https://github.com/darknosy"><img alt="Opera" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
     <a href="https://github.com/darknosy"><img alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
     <a href="https://github.com/darknosy"><img alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
 
 ### 💸 Support
