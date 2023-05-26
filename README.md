@@ -26,30 +26,33 @@ Hi, I'm DARKNOSY!
 
 <h1 align="left"> Connect with Me </h1>
 
-### 📱 Social Media
+<summary><b> 📱 Social Media</summary> </b>
 <p align="left">
 	<a href="mailto:dark.help@yahoo.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://twitter.com/darknosy1"><img src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-### 👨‍💻 Programming Languages
+<summary><b> 👨‍💻 Programming Languages</summary> </b>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🗄️ Databases and Cloud Hosting
+<summary><b> 🗄️ Databases and Cloud Hosting</summary> </b>
 
 <p>
-    <a href="https://github.com/darknosy"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222222.svg?logo=github&logoColor=white"></a>
+    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
+    <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-222222.svg?logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/darknosy"><img alt="GitHub Pages" src="https://img.shields.io/badge/MediaFire-222222.svg?logo=mediafire&logoColor=blue"></a>
 </p>
 
-### 💻 Software and Tools
+<summary><b> 💻 Software and Tools</summary> </b>
 
 <p>
-    <a href="https://github.com/darknosy"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://github.com/darknosy"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/darknosy"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-<!--
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<!--    
+<a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-%23F05033.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/darknosy"><img alt="Chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
     <a href="https://github.com/darknosy"><img alt="FireFox" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
     <a href="https://github.com/darknosy"><img alt="DevIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
@@ -62,7 +65,7 @@ Hi, I'm DARKNOSY!
 !-->
 </p>
 
-### 💸 Support
+<summary><b> 💸 Support
 <p>
  <a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY"/a>
 </p>
