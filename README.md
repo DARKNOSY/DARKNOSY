@@ -1,21 +1,21 @@
 <!-- Stolen from https://github.com/Bouaskaoun -->
 <h1 align="center">
 Hi, I'm DARKNOSY!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/darknosy" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/DARKNOSY">
-		<img src="https://komarev.com/ghpvc/?username=darknosy&label=Profile%20views&color=0e75b6&style=flat" alt="DARKNOSY" />
-	</a>
 	<a href="https://github.com/darknosy">
+		<img src="https://komarev.com/ghpvc/?username=darknosy&label=Profile%20views&color=0e75b6&style=flat" alt="darknosy" />
+	</a>
+	<a href="https://github.com/DARKNOSY?tab=followers">
 		<img src="https://img.shields.io/github/followers/darknosy?label=Followers" alt="darknosy" />
 	</a>
 </p>
 
 <pre>
-🌟 Main languages: Batch & Html
+🌟 Main languages: Batch, Html and Python
 🚩 Interested in Cybersecurity
 🤔 I’m currently open for: <b>Commissions</b>.
 </pre>
@@ -92,5 +92,12 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknosy&langs_count=8&layout=compact" alt="darknosy">
 	</a>
 	<br/>
+<p/>
 <br/>
-<br/>
+
+<p align="center">
+	<h1> 
+		<a href="https://github.com/DARKNOSY#hi-im-darknosy"><alt=Top/>
+		</a>
+	</h1>
+<p/>
