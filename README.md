@@ -98,14 +98,14 @@ Hi, I'm DARKNOSY!
 <br/>
 	
 <summary><b>⚡ Top Respositories</b></summary>
-
 <p>
 <h4>  </h4>
 	<summary><a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a></summary>
-	<h4>  </h4>
+	<h4>All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder.</h4>
 	<summary><a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a></summary>
-	<h4>  </h4>
+	<h4>Program with obfuscator and python 2 exe made easier.</h4>
 	<summary><a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a></summary>
-	<h4>  </h4>
+	<h4>Program with obfuscator and batch 2 exe made easier.</h4>
 	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
+	<h4>When info is entered, the webhook you gave the program will be sent that info (bat,py,html,js,ps).</h4>
 </p>
