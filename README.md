@@ -99,10 +99,15 @@ Hi, I'm DARKNOSY!
 	<br/>
 <br/>
 <br/>
-	
+
+<summary><b>⚡ Trophies</b></summary>
+<p align="center">
+	<a href="https://github.com/darknosy/">
+	<img src="https://github-profile-trophy.vercel.app/?username=darknosy&theme=juicyfresh&no-bg=true"/>
+	</a>
+
 <summary><b>⚡ Top Respositories</b></summary>
 <p>
-<h4>  </h4>
 	<summary><a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a></summary>
 	<h4>All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder.</h4>
 	<summary><a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a></summary>
@@ -112,9 +117,3 @@ Hi, I'm DARKNOSY!
 	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
 	<h4>When info is entered, the webhook you gave the program will be sent that info (bat,py,html,js,ps).</h4>
 </p>
-
-<summary><b>⚡ Trophies</b></summary>
-<p align="center">
-	<a href="https://github.com/darknosy/">
-	<img src="https://github-profile-trophy.vercel.app/?username=darknosy&theme=juicyfresh&no-bg=true"/>
-	</a>
