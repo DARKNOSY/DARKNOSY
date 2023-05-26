@@ -78,8 +78,9 @@ Hi, I'm DARKNOSY!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Darknosy">
+	<a href="https://github.com/darknosy">
 	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darknosy&show_icons=true" alt="darknosy">
+	<img align="center"    src="https://githubreadmestats.vercel.app/apiusername=darknosy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="darknosy"/>
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darknosy" alt="darknosy">
 	</a>
 	<br/>
