@@ -103,10 +103,8 @@ Hi, I'm DARKNOSY!
 <h4>
 	        
 </h4>
-<summary>
-	<a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a>
-	<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
-	<a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a>
-	<a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a>
-</summary>
+	<summary><a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a></summary>
+	<summary><a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a></summary>
+	<summary><a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a></summary>
+	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
 </p>
