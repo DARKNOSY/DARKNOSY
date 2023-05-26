@@ -1,4 +1,3 @@
-<!-- Stolen from https://github.com/Bouaskaoun -->
 <h1 align="center">
 Hi, I'm DARKNOSY!
 	<a href="https://github.com/darknosy" target="_self">
@@ -43,7 +42,7 @@ Hi, I'm DARKNOSY!
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222222.svg?logo=github&logoColor=white"></a>
     <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
     <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-222222.svg?logo=vercel&logoColor=white"></a>
-    <a href="https://github.com/darknosy"><img alt="GitHub Pages" src="https://img.shields.io/badge/MediaFire-222222.svg?logo=mediafire&logoColor=blue"></a>
+    <a href="https://mediafire.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/MediaFire-222222.svg?logo=mediafire&logoColor=blue"></a>
 </p>
 
 <summary><b> 💻 Software and Tools</summary> </b>
@@ -101,7 +100,6 @@ Hi, I'm DARKNOSY!
 <summary><b>⚡ Top Respositories</b></summary>
 
 <p>
-	<a href="https://github.com/DARKNOSY/Viper-Aiot"
-	<alt="Viper Aiot">
+	<a href="https://github.com/DARKNOSY/Viper-Aiot"><alt="Viper Aiot">
 	
 </p>
