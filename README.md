@@ -100,6 +100,6 @@ Hi, I'm DARKNOSY!
 <summary><b>⚡ Top Respositories</b></summary>
 
 <p>
-	<a href="https://github.com/DARKNOSY/Viper-Aiot"><alt="Viper Aiot">
+	<a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a>
 	
 </p>
