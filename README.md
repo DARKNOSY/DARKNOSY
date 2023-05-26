@@ -11,6 +11,9 @@ Hi, I'm DARKNOSY!
 	<a href="https://github.com/DARKNOSY?tab=followers">
 		<img src="https://img.shields.io/github/followers/darknosy?label=Followers" alt="darknosy" />
 	</a>
+	<a href="https://github.com/DARKNOSY?tab=repositories&q=&type=&language=&sort=stargazers">
+	<img src="https://img.shields.io/github/stars/darknosy?label=Stars" alt="stars">
+	</a>
 </p>
 
 <pre>
@@ -109,3 +112,9 @@ Hi, I'm DARKNOSY!
 	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
 	<h4>When info is entered, the webhook you gave the program will be sent that info (bat,py,html,js,ps).</h4>
 </p>
+
+<summary><b>⚡ Trophies</b></summary>
+<p align="center">
+	<a href="https://github.com/darknosy/">
+	<img src="https://github-profile-trophy.vercel.app/?username=darknosy&theme=juicyfresh&no-bg=true"/>
+	</a>
