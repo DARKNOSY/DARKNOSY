@@ -26,8 +26,7 @@ Hi, I'm DARKNOSY!
 
 ##
 
-<details open> 
-	<h1 align="left"> Connect with Me </h1>
+<h1 align="left"> Connect with Me </h1>
 
 <summary><b> 📱 Social Media</summary> </b>
 <p align="left">
@@ -108,9 +107,7 @@ Hi, I'm DARKNOSY!
  <a href="https://ko-fi.com/DARKNOSY"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="DARKNOSY"/a>
 </p>
 </br>
-</details>
 
-<details open>
 ##
 
 <h1 align="left"> GitHub Stats </h1>
@@ -155,4 +152,3 @@ Hi, I'm DARKNOSY!
 	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
 	<h4>When info is entered, the webhook you gave the program will be sent that info (bat,py,html,js,ps).</h4>
 </p>
-</details>
