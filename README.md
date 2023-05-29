@@ -35,28 +35,13 @@ Hi, I'm DARKNOSY!
 </p>
 
 <summary><b> 👨‍💻 Programming Languages</summary> </b>
-<details open>
-    <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-<h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
+<a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+<a href="https://www.w3.org/html/"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
-</p>
-
-<h3>🧰 Frameworks and Libraries</h3>
-
-<p>
-<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
+<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3"><img alt="Powershell" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
+<a href="https://en.wikipedia.org/wiki/Batch_file"><img alt="Batch File" src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true">
 </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -102,6 +87,8 @@ Hi, I'm DARKNOSY!
     <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
     <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-222222.svg?logo=vercel&logoColor=white"></a>
     <a href="https://mediafire.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/MediaFire-222222.svg?logo=mediafire&logoColor=blue"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
 </p>
 
 <summary><b> 💻 Software and Tools</summary> </b>
