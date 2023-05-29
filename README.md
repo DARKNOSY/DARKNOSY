@@ -26,7 +26,8 @@ Hi, I'm DARKNOSY!
 
 ##
 
-<details open> <h1 align="left"> Connect with Me </h1>
+<details open> 
+	<h1 align="left"> Connect with Me </h1>
 
 <summary><b> 📱 Social Media</summary> </b>
 <p align="left">
