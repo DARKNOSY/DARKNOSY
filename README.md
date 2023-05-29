@@ -35,23 +35,13 @@ Hi, I'm DARKNOSY!
 </p>
 
 <summary><b> 👨‍💻 Programming Languages</summary> </b>
-<p>
-<a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-<a href="https://www.w3.org/html/"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-
-<!--
-<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3"><img alt="Powershell" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
-<a href="https://en.wikipedia.org/wiki/Batch_file"><img alt="Batch File" src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true">
--->
-</p>
 <p align="left"> 
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/> </a> 
        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true" alt="Batch File" width="40" height="40"/> </a> 
 	<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a> 
+	<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="40" height="40"/> </a> 
 </p>
 
 <summary><b> 🗄️ Databases and Cloud Hosting</summary> </b>
