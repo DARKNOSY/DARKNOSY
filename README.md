@@ -41,7 +41,7 @@ Hi, I'm DARKNOSY!
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true" alt="Batch File" width="40" height="40"/> </a> 
 	<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a> 
-	<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" alt="JavaScript" width="40" height="40"/> </a> 
+	<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> </a> 
 </p>
 
 <summary><b> 🗄️ Databases and Cloud Hosting</summary> </b>
