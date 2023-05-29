@@ -89,8 +89,6 @@ Hi, I'm DARKNOSY!
 </br>
 
 <h4>    </h4>
-<h4>   </h4>
-##
 
 <h1 align="left"> GitHub Stats </h1>
 
