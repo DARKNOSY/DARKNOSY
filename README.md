@@ -122,13 +122,17 @@ Hi, I'm DARKNOSY!
 	</a>
 
 <summary><b>⚡ Top Respositories</b></summary>
-<p>
-	<summary><a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a></summary>
-	<h4>All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder.</h4>
-	<summary><a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a></summary>
-	<h4>Program with obfuscator and python 2 exe made easier.</h4>
-	<summary><a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a></summary>
-	<h4>Program with obfuscator and batch 2 exe made easier.</h4>
-	<summary><a href="https://github.com/DARKNOSY/Info-Logger">Info Logger</a></summary>
-	<h4>When info is entered, the webhook you gave the program will be sent that info (bat,py,html,js,ps).</h4>
+<p align="left">
+	<a href="https://github.com/DARKNOSY/Viper-Aiot">
+	<img src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144d0ed58922c7e38b5528e456c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d56697065722d41494f54267468656d653d73796e746877617665"/>
+	</a>
+	<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">
+	<img src="https://camo.githubusercontent.com/fd37af3a6a4cf5291c732904e4a5e59ac17f099e3198ad44657e881cd1ae34be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d507932457865586f626675736361746f72267468656d653d73796e746877617665"/>
+	</a>
+        <a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">
+	<img src="https://camo.githubusercontent.com/d9c94d8991cb704a3d5b3033605498cb52ddec2112ed80dc60ed8b726598d756/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d42617432457865586f626675736361746f72267468656d653d73796e746877617665"/>
+	</a>
+	<a href="https://github.com/DARKNOSY/Info-Logger">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=synthwave"/>
+	</a>
 </p>
