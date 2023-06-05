@@ -49,10 +49,9 @@ Hi, I'm DARKNOSY!
 <p>
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222222.svg?logo=github&logoColor=white"></a>
     <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
-    <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-222222.svg?logo=vercel&logoColor=white"></a>
     <a href="https://mediafire.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/MediaFire-1793D1?logo=mediafire&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
+    <a href="https://repl.it"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
 </p>
 
 <summary><b> 💻 Software and Tools</summary> </b>
