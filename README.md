@@ -19,7 +19,8 @@ Hi, I'm DARKNOSY!
 <pre>
 🌟 Main languages: Batch File, Html and Python
 🚩 Interested in Cybersecurity; all type of viruses and malicous methods.
-🧑‍💻 I’m working on <a href="https://github.com/DARKNOSY/File-Analyser"><b>File Analyser</b></a>.
+🧑‍💻 Working on <a href="https://github.com/DARKNOSY/File-Analyser"><b>File Analyser</b></a>.
+🎓 Learning obfuscation and reverse engineering
 </pre>
 
 <br/>
