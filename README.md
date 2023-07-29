@@ -130,3 +130,20 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=synthwave"/>
 	</a>
 </p>
+
+<summary><b> ⚡ Most Worked On Repositories</b></summary>
+<p align="left">
+	<a href="https://github.com/DARKNOSY/Viper-Aiot">
+	<img
+src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144d0ed58922c7e38b5528e456c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d56697065722d41494f54267468656d653d73796e746877617665"/>
+	</a>
+ 	<a href="https://github.com/DARKNOSY/Info-Logger">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=synthwave"/>
+	</a>
+ 	<a href="https://github.com/DARKNOSY/DARKNOSY">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=DARKNOSY&theme=synthwave"/>
+	</a>
+ 	<a href="https://github.com/DARKNOSY/darknosy.github.io">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=synthwave"/>
+	</a>
+</p>
