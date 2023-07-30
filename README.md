@@ -37,11 +37,11 @@ Hi, I'm DARKNOSY!
 
 <summary><b> 👨‍💻 Programming Languages</summary> </b>
 <p align="left"> 
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/> </a> 
-       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true" alt="Batch File" width="40" height="40"/> </a> 
+	<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://github.com/DARKNOSY/DARKNOSY/blob/main/batch.png?raw=true" alt="Batch File" width="40" height="20"/> </a> 
 	<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a> 
+       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> </a> 
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/> </a> 
 	<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> </a> 
 		<a href="https://wikipedia.org/wiki/MarkDown" target="_blank" rel="noreferrer"><img src="https://www.iconbolt.com/iconsets/remix-icon-fill/markdown.svg" alt="MarkDown" width="40" height="40"/> </a> 
 </p>
