@@ -44,7 +44,6 @@ Hi, I'm DARKNOSY!
 	<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="40" height="40"/> </a> 
 	<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> </a> 
 		<a href="https://wikipedia.org/wiki/MarkDown" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="MarkDown" width="40" height="40"/> </a> 
-	MarkDown
 </p>
 
 <summary><b> 🗄️ Databases and Cloud Hosting</summary> </b>
