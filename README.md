@@ -102,7 +102,9 @@ Hi, I'm DARKNOSY!
 <br/>
 
 <p align="center">
-	[https://github-profile-trophy.vercel.app/?username=DARKNOSY&theme=onedark](https://github.com/Darknosy)
+	<a href="https://github.com/DARKNOSY/">
+	<img src="https://github-profile-trophy.vercel.app/?username=DARKNOSY&theme=onedark"/>
+	</a>
 	<br/>
 <br/>
 <br/>
