@@ -103,7 +103,7 @@ Hi, I'm DARKNOSY!
 
 <p align="center">
 	<a href="https://github.com/Darknosy">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknosy&langs_count=8&layout=compact" alt="darknosy">
+	https://github-profile-trophy.vercel.app/?username=DARKNOSY&theme=onedark
 	</a>
 	<br/>
 <br/>
