@@ -148,3 +148,11 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=synthwave"/>
 	</a>
 </p>
+
+
+<h1 align="left"> Bonus </h1>
+
+<summary><b> To the feds and github gods</b></summary>
+<pre>
+Don't come for me lmfao, I'm just doing this for educational purposes and for fun, all the code and projects I publish on github are to show, provide and give to the coding community, whether it gets used by a black hat or not does not concern me and it is not my responsability
+</pre>
