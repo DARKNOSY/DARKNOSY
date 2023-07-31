@@ -20,7 +20,7 @@ Hi, I'm DARKNOSY!
 🌟 Main languages: Batch File, Html and Python
 🚩 Interested in Cybersecurity; all type of viruses and malicous methods.
 🧑‍💻 Working on <a href="https://github.com/DARKNOSY/GrabNote"><b>GrabNote</b></a>.
-🎓 Learning Obfuscation, Infection, BackDooring and Reverse Engineering.
+🎓 Learning Obfuscation, BackDooring and Reverse Engineering.
 </pre>
 
 <br/>
