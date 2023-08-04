@@ -17,7 +17,7 @@ Hi, I'm DARKNOSY!
 </p>
 
 <pre>
-🌟 Main languages: Batch File, Html and Python
+🌟 Languages I use the most: Batch File, Python and Html
 🚩 Interested in Cybersecurity; all type of viruses and malicous methods.
 🧑‍💻 Working on <a href="https://github.com/DARKNOSY/GrabNote"><b>GrabNote</b></a>.
 🎓 Learning Obfuscation, BackDooring and Reverse Engineering.
