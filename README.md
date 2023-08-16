@@ -152,6 +152,19 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 
 <h1 align="left"> Bonus </h1>
 
+<summary><b> ⌚ Coming Up...</b></summary>
+<pre>
+➡  <a href="https://github.com/DARKNOSY/Discord-AccVerifier"> Discord Acc Verifier </a>
+➡  <a href="https://github.com/DARKNOSY/File-Analyser"> File Analyser </a>
+➡  <a href="https://github.com/DARKNOSY/GrabNote"> GrabNote </a>
+➡  <a href="https://github.com/DARKNOSY/Java2exeXobfuscator"> Java2exeXobfuscator </a>
+➡  <a href="https://github.com/DARKNOSY/Ps2ExeXobfuscator"> Ps2ExeXobfuscator </a>
+➡  <a href="https://github.com/DARKNOSY/Rush-Discord-AccGen"> Rush Discord Acc Gen </a>
+➡  <a href="https://github.com/DARKNOSY/Rush-Stealer"> Rush Stealer </a>
+➡  <a href="https://github.com/DARKNOSY/Token-Finder"> Token Finder </a>
+</pre>
+
+
 <summary><b> 💌 To the Feds and Github Gods</b></summary>
 <pre>
 ➡  Don't come for me lmfao, I'm just doing this for educational purposes and for fun, all the code and projects 
