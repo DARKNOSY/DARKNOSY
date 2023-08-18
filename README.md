@@ -166,7 +166,7 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 </pre>
 
 
-<summary><b> 💌 To the Feds and Github Gods</b></summary>
+<summary><b> 💌 To the Feds and White Hats</b></summary>
 <pre>
 ➡  Don't come for me lmfao, I'm just doing this for educational purposes and for fun, all the code and projects 
      I publish on Github are to show, provide and give to the coding community, whether it gets used by a 
