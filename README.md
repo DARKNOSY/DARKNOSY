@@ -157,6 +157,7 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 <pre>
 ➡  <a href="https://github.com/DARKNOSY/Cookie-Finder">Cookie Finder</a>
 ➡  <a href="https://github.com/DARKNOSY/Discord-AccVerifier">Discord Acc Verifier</a>
+➡  <a href="https://github.com/DARKNOSY/Discord-Injection/">Discord Injection</a>
 ➡  <a href="https://github.com/DARKNOSY/File-Analyser">File Analyser</a>
 ➡  <a href="https://github.com/DARKNOSY/GrabNote">GrabNote</a>
 ➡  <a href="https://github.com/DARKNOSY/Java2exeXobfuscator">Java2exeXobfuscator</a>
@@ -166,7 +167,6 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 ➡  <a href="https://github.com/DARKNOSY/Rush-Stealer">Rush Stealer</a>
 ➡  <a href="https://github.com/DARKNOSY/Token-Finder">Token Finder</a>
 </pre>
-
 
 <summary><b> 💌 To the Feds and White Hats</b></summary>
 <pre>
