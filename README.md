@@ -112,7 +112,7 @@ Hi, I'm DARKNOSY!
 
 <p align="center">
 	<a href="https://github.com/Darknosy">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknosy&langs_count=8&layout=compact" alt="darknosy">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknosy&langs_count=8&layout=compact&theme=tokyonight" alt="darknosy">
 	</a>
 	<br/>
 <br/>
