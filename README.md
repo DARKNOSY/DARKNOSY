@@ -124,6 +124,15 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-profile-trophy.vercel.app/?username=darknosy&theme=juicyfresh&no-bg=true"/>
 	</a>
 
+<h4>    </h4>
+
+<summary><b> ⚡ Contribution Graph</b></summary>
+<p align="left">
+	<a href="https://github.com/DARKNOSY/">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKNOSY&theme=tokyonight"/>
+	</a>
+</p>
+
 <summary><b>⚡ Most Popular Respositories</b></summary>
 <p align="left">
 	<a href="https://github.com/DARKNOSY/Viper-Aiot">
@@ -156,15 +165,6 @@ src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144
 	</a>
  	<a href="https://github.com/DARKNOSY/darknosy.github.io">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=synthwave"/>
-	</a>
-</p>
-
-<h4>    </h4>
-
-<summary><b> ⚡ Most Worked On Repositories</b></summary>
-<p align="left">
-	<a href="https://github.com/DARKNOSY/Viper-Aiot">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darknosy&theme=tokyonight"/>
 	</a>
 </p>
 
