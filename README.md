@@ -100,7 +100,7 @@ Hi, I'm DARKNOSY!
 
 <p align="center">
 	<a href="https://github.com/darknosy">
-	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darknosy&show_icons=true" alt="darknosy">
+	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DARKNOSY&theme=tokyonight" alt="darknosy">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darknosy" alt="darknosy">
 	</a>
 	<br/>
