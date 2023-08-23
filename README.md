@@ -57,6 +57,13 @@ Hi, I'm DARKNOSY!
     <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
 </p>
 
+<summary><b> 💾 Operating System</summary> </b>
+
+<p>
+    <a href="https://android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="https://windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
 <summary><b> 💻 Software and Tools</summary> </b>
 
 <p>
