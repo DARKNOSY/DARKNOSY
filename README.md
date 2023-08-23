@@ -124,8 +124,6 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-profile-trophy.vercel.app/?username=darknosy&theme=juicyfresh&no-bg=true"/>
 	</a>
 
-<h4>    </h4>
-
 <summary><b> ⚡ Contribution Graph</b></summary>
 <p align="left">
 	<a href="https://github.com/DARKNOSY/">
