@@ -134,16 +134,16 @@ Hi, I'm DARKNOSY!
 <summary><b>⚡ Most Popular Respositories</b></summary>
 <p align="left">
 	<a href="https://github.com/DARKNOSY/Viper-Aiot">
-	<img src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144d0ed58922c7e38b5528e456c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d56697065722d41494f54267468656d653d73796e746877617665"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Viper-Aiot&theme=tokyonight"/>
 	</a>
 	<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">
-	<img src="https://camo.githubusercontent.com/fd37af3a6a4cf5291c732904e4a5e59ac17f099e3198ad44657e881cd1ae34be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d507932457865586f626675736361746f72267468656d653d73796e746877617665"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Py2ExeXobfuscator&theme=tokyonight"/>
 	</a>
         <a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">
-	<img src="https://camo.githubusercontent.com/d9c94d8991cb704a3d5b3033605498cb52ddec2112ed80dc60ed8b726598d756/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d42617432457865586f626675736361746f72267468656d653d73796e746877617665"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Bat2ExeXobfuscator&theme=tokyonight"/>
 	</a>
 	<a href="https://github.com/DARKNOSY/Info-Logger">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=synthwave"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=tokyonight"/>
 	</a>
 </p>
 
@@ -156,13 +156,13 @@ Hi, I'm DARKNOSY!
 src="https://camo.githubusercontent.com/0303bcfe4800ffa47222d9f0f090ba511225f144d0ed58922c7e38b5528e456c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4441524b4e4f5359267265706f3d56697065722d41494f54267468656d653d73796e746877617665"/>
 	</a>
  	<a href="https://github.com/DARKNOSY/Info-Logger">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=synthwave"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=tokyonight"/>
 	</a>
  	<a href="https://github.com/DARKNOSY/DARKNOSY">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=DARKNOSY&theme=synthwave"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=DARKNOSY&theme=tokyonight"/>
 	</a>
  	<a href="https://github.com/DARKNOSY/darknosy.github.io">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=synthwave"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=tokyonight"/>
 	</a>
 </p>
 
