@@ -187,7 +187,7 @@ Hi, I'm DARKNOSY!
 
 <summary><b> 💌 To the Feds and White Hats</b></summary>
 <pre>
-➡  Don't come for me lmfao, I'm just doing this for educational purposes and for fun, all the code and projects 
-     I publish on Github are to show, provide and give to the coding community, whether it gets used by a 
-	black hat or not does not concern me and it is not my responsability.
+➡  Don't come for me lmfao, I'm just doing this for educational purposes and for fun, all the code and
+     projects I publish on Github are to show, provide and give to the coding community, whether it gets used
+	by a black hat or not does not concern me and it is not my responsability.
 </pre>
