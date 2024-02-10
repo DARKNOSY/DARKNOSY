@@ -169,8 +169,8 @@ Hi, I'm DARKNOSY!
 
 <summary><b> ⌚ Coming Up...</b></summary>
 <h3>Types</h3>
-<h4>🟢➡Coming up 100%
-🟡➡May be coming up later
+<h4>🟢➡Coming up 100%   
+🟡➡May be coming up later   
 🔴➡Not publishing/doing
 </h4>
 <pre>
