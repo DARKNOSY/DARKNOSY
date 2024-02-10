@@ -168,7 +168,7 @@ Hi, I'm DARKNOSY!
 <h1 align="left"> Bonus </h1>
 
 <summary><b> ⌚ Coming Up...</b></summary>
-<h2>Types</h2>
+<h3>Types</h3>
 <h4>🟢➡Coming up 100%
 🟡➡May be coming up later
 🔴➡Not publishing/doing
