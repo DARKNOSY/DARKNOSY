@@ -187,11 +187,6 @@ Hi, I'm DARKNOSY!
 </pre>
 
 <summary><b> ⌚ Projects Coming Up...</b></summary>
-<!--<h3>Types</h3>
-<h4>🟢➡Coming up 100%   
-🟡➡May be coming up later   
-🔴➡Not publishing/doing
-</h4>-->
 <pre>
 ➡  🟢<a href="https://github.com/DARKNOSY/Cookie-Finder">Cookie Finder</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Discord-AccVerifier">Discord Acc Verifier</a>
@@ -201,9 +196,7 @@ Hi, I'm DARKNOSY!
 ➡  🟡<a href="https://github.com/DARKNOSY/Java2exeXobfuscator">Java2exeXobfuscator</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/MemeWare">MemeWare</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Monday-left-me-broken-Cat-Malware">Monday Left Me Broken Cat Malware</a>
-➡  🔴<a href="https://github.com/DARKNOSY/project-evoli">Project Evoli</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Rush-Discord-AccGen">Rush Discord Acc Gen</a>
-➡  🔴<a href="https://github.com/DARKNOSY/Rush-Stealer">Rush Stealer</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Token-Finder">Token Finder</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/YoQuieroTacoBellDog-Malware">Yo Quiero Taco Bell Dog Malware</a>
 </pre>
