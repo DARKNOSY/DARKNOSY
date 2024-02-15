@@ -169,7 +169,24 @@ Hi, I'm DARKNOSY!
 
 <h1 align="left"> Bonus </h1>
 
-<summary><b> ⌚ Coming Up...</b></summary>
+<summary><b> 📜​ Incoming Revamps/Update...</b></summary>
+<!--<h3>Types</h3>
+<h4>🟢➡Coming up 100%   
+🟡➡May be coming up later   
+🔴➡Not publishing/doing
+</h4>-->
+<pre>
+➡  🟢<a href="https://github.com/xpierroz/WhatsappStealer">Whatsapp Stealer</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Installer">Installer</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Trojan-Shield">Trojan Shield</a>
+➡  🟢<a href="https://github.com/DARKNOSY/Discord-Destroyer">Discord Destroyer</a>
+➡  🟢<a href="https://github.com/DARKNOSY/darknosy.github.io">darknosy.github.io</a>
+</pre>
+
+<summary><b> ⌚ Projects Coming Up...</b></summary>
 <!--<h3>Types</h3>
 <h4>🟢➡Coming up 100%   
 🟡➡May be coming up later   
