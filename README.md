@@ -185,7 +185,6 @@ Hi, I'm DARKNOSY!
 ➡  🟡<a href="https://github.com/DARKNOSY/MemeWare">MemeWare</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Monday-left-me-broken-Cat-Malware">Monday Left Me Broken Cat Malware</a>
 ➡  🔴<a href="https://github.com/DARKNOSY/project-evoli">Project Evoli</a>
-<!-- ➡  🟢<a href="https://github.com/DARKNOSY/Ps2ExeXobfuscator">Ps2ExeXobfuscator</a> -->
 ➡  🟡<a href="https://github.com/DARKNOSY/Rush-Discord-AccGen">Rush Discord Acc Gen</a>
 ➡  🔴<a href="https://github.com/DARKNOSY/Rush-Stealer">Rush Stealer</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Token-Finder">Token Finder</a>
