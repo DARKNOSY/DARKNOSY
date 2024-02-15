@@ -181,8 +181,8 @@ Hi, I'm DARKNOSY!
 ➡  🟢<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Installer">Installer</a>
-➡  🟢<a href="https://github.com/DARKNOSY/Trojan-Shield">Trojan Shield</a>
-➡  🟢<a href="https://github.com/DARKNOSY/Discord-Destroyer">Discord Destroyer</a>
+➡  🟡<a href="https://github.com/DARKNOSY/Trojan-Shield">Trojan Shield</a>
+➡  🟡<a href="https://github.com/DARKNOSY/Discord-Destroyer">Discord Destroyer</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/darknosy.github.io">darknosy.github.io</a>
 </pre>
 
