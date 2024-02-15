@@ -149,6 +149,7 @@ Hi, I'm DARKNOSY!
 
 <h4>    </h4>
 
+<!-- 
 <summary><b> ⚡ Most Worked On Repositories</b></summary>
 <p align="left">
 	<a href="https://github.com/DARKNOSY/Viper-Aiot">
@@ -163,7 +164,8 @@ Hi, I'm DARKNOSY!
  	<a href="https://github.com/DARKNOSY/darknosy.github.io">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=darknosy.github.io&theme=tokyonight"/>
 	</a>
-</p>
+</p> 
+-->
 
 <h1 align="left"> Bonus </h1>
 
@@ -183,7 +185,7 @@ Hi, I'm DARKNOSY!
 ➡  🟡<a href="https://github.com/DARKNOSY/MemeWare">MemeWare</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Monday-left-me-broken-Cat-Malware">Monday Left Me Broken Cat Malware</a>
 ➡  🔴<a href="https://github.com/DARKNOSY/project-evoli">Project Evoli</a>
-➡  🟢<a href="https://github.com/DARKNOSY/Ps2ExeXobfuscator">Ps2ExeXobfuscator</a>
+<!-- ➡  🟢<a href="https://github.com/DARKNOSY/Ps2ExeXobfuscator">Ps2ExeXobfuscator</a> -->
 ➡  🟡<a href="https://github.com/DARKNOSY/Rush-Discord-AccGen">Rush Discord Acc Gen</a>
 ➡  🔴<a href="https://github.com/DARKNOSY/Rush-Stealer">Rush Stealer</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Token-Finder">Token Finder</a>
