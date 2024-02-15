@@ -170,11 +170,11 @@ Hi, I'm DARKNOSY!
 <h1 align="left"> Bonus </h1>
 
 <summary><b> ⌚ Coming Up...</b></summary>
-<h3>Types</h3>
+<!--<h3>Types</h3>
 <h4>🟢➡Coming up 100%   
 🟡➡May be coming up later   
 🔴➡Not publishing/doing
-</h4>
+</h4>-->
 <pre>
 ➡  🟢<a href="https://github.com/DARKNOSY/Cookie-Finder">Cookie Finder</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Discord-AccVerifier">Discord Acc Verifier</a>
