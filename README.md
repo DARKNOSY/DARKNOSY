@@ -176,7 +176,6 @@ Hi, I'm DARKNOSY!
 🔴➡Not publishing/doing
 </h4>-->
 <pre>
-➡  🟢<a href="https://github.com/xpierroz/WhatsappStealer">Whatsapp Stealer</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
 ➡  🟢<a href="https://github.com/DARKNOSY/Viper-Aiot">Viper Aiot</a>
