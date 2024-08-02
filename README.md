@@ -19,8 +19,8 @@ Hi, I'm DARKNOSY!
 <pre>
 🌟 Languages I use the most: Batch File, Python and Html
 🚩 Interested in Cybersecurity; all type of viruses and malicous methods.
-🧑‍💻 Working on private<!--<a href="https://github.com/DARKNOSY/Viper-Aiot"><b>Viper Aiot</b></a>.-->
-🎓 Learning Obfuscation, BackDooring and Reverse Engineering.
+🧑‍💻 Working on private projects<!--<a href="https://github.com/DARKNOSY/Viper-Aiot"><b>Viper Aiot</b></a>.-->
+🎓 Learning Obfuscation & Reverse Engineering.
 </pre>
 
 <br/>
