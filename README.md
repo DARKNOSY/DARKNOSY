@@ -196,7 +196,6 @@ Hi, I'm DARKNOSY!
 ➡  🟡<a href="https://github.com/DARKNOSY/MemeWare">MemeWare</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Monday-left-me-broken-Cat-Malware">Monday Left Me Broken Cat Malware</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/Rush-Discord-AccGen">Rush Discord Acc Gen</a>
-➡  🟢<a href="https://github.com/DARKNOSY/Token-Finder">Token Finder</a>
 ➡  🟡<a href="https://github.com/DARKNOSY/YoQuieroTacoBellDog-Malware">Yo Quiero Taco Bell Dog Malware</a>
 </pre>
 
