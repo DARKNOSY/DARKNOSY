@@ -130,7 +130,7 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKNOSY&theme=tokyonight"/>
 	</a>
 </p>
-
+<!--
 <summary><b>⚡ Most Popular Respositories</b></summary>
 <p align="left">
 	<a href="https://github.com/DARKNOSY/Viper-Aiot">
@@ -146,6 +146,7 @@ Hi, I'm DARKNOSY!
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Info-Logger&theme=tokyonight"/>
 	</a>
 </p>
+-->
 
 <h4>    </h4>
 
