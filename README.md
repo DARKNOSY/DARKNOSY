@@ -101,6 +101,7 @@ Hi, I'm DARKNOSY!
 <p align="center">
 	<a href="https://github.com/darknosy">
 	<!-- <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DARKNOSY&theme=tokyonight" alt="darknosy"> -->
+	<img src="https://github-readme-stats.vercel.app/api?username=darknosy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=darknosy&theme=tokyonight" alt="darknosy">
 	</a>
 	<br/>
